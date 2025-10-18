@@ -41,6 +41,7 @@ Git & GitHub
 
 📂 Proyectos Destacados
 
+Servidor de minecraft Con EC2 y S3 conectados por script de python para backups
 
 📊 GitHub Analytics
 <p align="center">
