@@ -4,7 +4,7 @@
 </div>
 <img src="https://i.imgur.com/Eyuik5Y.jpeg" alt="Banner" width="100%">
 <p align="center">
-  <a href="https://github.com/Paulo-Gutierrez-cloud"><img src="https://img.shields.io/github/followers/Esquizo33?style=social" alt="GitHub followers"></a>
+  <a href="https://github.com/Paulo-Gutierrez-cloud"><img src="https://img.shields.io/github/followers/Paulo-Gutierrez-cloud?style=social" alt="GitHub followers"></a>
   <a href="https://www.linkedin.com/in/paulo-gutierrez-a7a832237/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:3gp200@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-red?style=flat&logo=gmail" alt="Email"></a>
 </p>
@@ -44,7 +44,7 @@ Git & GitHub
 
 📊 GitHub Analytics
 <p align="center">
-<a href="https://github.com/Esquizo33">
+<a href="https://github.com/Paulo-Gutierrez-cloud">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Paulo-Gutierrez-cloud&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Paulo-Gutierrez-cloud&layout=compact&langs_count=8&theme=algolia"/>
 </a>
