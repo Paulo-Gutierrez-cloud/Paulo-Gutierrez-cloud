@@ -1,10 +1,10 @@
 <div align="center">
-<h1 align="center">Hola, soy Paulo Gutierrez 👋</h1>
+<h1 align="center">Hola, espero aprendamos mutuamente 👋</h1>
 <h3 align="center">Cloud Practitioner | AWS Certified | Developer</h3>
 </div>
 <img src="https://i.imgur.com/Eyuik5Y.jpeg" alt="Banner" width="100%">
 <p align="center">
-  <a href="https://github.com/Esquizo33"><img src="https://img.shields.io/github/followers/Esquizo33?style=social" alt="GitHub followers"></a>
+  <a href="https://github.com/Paulo-Gutierrez-cloud"><img src="https://img.shields.io/github/followers/Esquizo33?style=social" alt="GitHub followers"></a>
   <a href="https://www.linkedin.com/in/paulo-gutierrez-a7a832237/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:3gp200@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-red?style=flat&logo=gmail" alt="Email"></a>
 </p>
@@ -45,12 +45,12 @@ Git & GitHub
 📊 GitHub Analytics
 <p align="center">
 <a href="https://github.com/Esquizo33">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Esquizo33&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Esquizo33&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Paulo-Gutierrez-cloud&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Paulo-Gutierrez-cloud&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esquizo33&theme=algolia" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paulo-Gutierrez-cloud&theme=algolia" alt="GitHub Streak">
 </p>
 🏆 Certificaciones
 
@@ -65,5 +65,5 @@ Git & GitHub
   <i>⚡ "La mejor manera de predecir el futuro es crearlo" ⚡</i>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Esquizo33&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=Paulo-Gutierrez-cloud&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Profile views">
 </p>
